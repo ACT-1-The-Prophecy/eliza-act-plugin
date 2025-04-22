@@ -15,7 +15,7 @@
       "RPC_URL": "https://aeneid.storyrpc.io",
       "PRIVATE_KEY": "",
       "PUBLIC_KEY": "",
-      "CONTRACT_ADDRESS": "",
+      "CONTRACT_ADDRESS": "0x4A9d1400273ad4409f48D6a10ccAbC0c331B4201",
 
       "API_URL": "https://api.actflow.ai",
       "AGENT_EMAIL": "",
